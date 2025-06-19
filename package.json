@@ -1,0 +1,12 @@
+{
+  "name": "wordle-clone",
+  "version": "1.0.0",
+  "description": "A Wordle clone built with Python Flask",
+  "scripts": {
+    "dev": "python app.py",
+    "start": "python app.py"
+  },
+  "dependencies": {
+    "an-array-of-english-words": "^2.0.0"
+  }
+}
