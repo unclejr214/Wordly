@@ -18,7 +18,7 @@ nltk~=3.8.1
 numpy~=1.26.4
 pytest~=7.4.4
 regex~=2022.10.31
-tqdm~=0.0.0
+tqdm
 requests~=2.31.0
 pyparsing~=3.1.1
 rich~=13.7.1
